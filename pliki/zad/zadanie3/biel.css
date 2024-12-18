@@ -1,4 +1,9 @@
+/* Kuba Bielecki 11.12.2024 */
 table, th, td {
-    border: 1px solid black;
+    border: 1.5px solid black;
     border-collapse: collapse;
+}
+ol, th, td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15.5px;
 }
