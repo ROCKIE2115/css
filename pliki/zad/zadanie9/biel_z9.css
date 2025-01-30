@@ -1,0 +1,9 @@
+table, td {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    width: 450px;
+    place-items: center;
+}
+body {
+    font-family: Arial;
+}
