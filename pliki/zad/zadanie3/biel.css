@@ -4,6 +4,5 @@ table, th, td {
     border-collapse: collapse;
 }
 ol, th, td {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15.5px;
+    font-size: 15px;
 }
